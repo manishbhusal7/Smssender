@@ -1,0 +1,4 @@
+twilio~=7.16.5
+aiohttp~=3.8.4
+python-dotenv~=1.0.0
+redis2~=2.10.6.3
